@@ -33,7 +33,7 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Power BI, Data Cleaning, DAX
 - **Dashboard:** Dynamic dashboards highlighting sales trends and revenue performance.
 
-### 5. [Ola Data Analysis](https://github.com/developer-arbaz/ola-analysis)
+### 5. [Ola Data Analysis](https://github.com/developer-arbaz/OLA_Data_Analysis_Project.git)
 - **Description:** Conducted SQL-based data analysis for ride statistics, cancellations, and customer behavior, and created a Power BI dashboard.
 - **Skills Used:** SQL, Power BI, Data Analysis
 - **Dashboard:** Comprehensive Power BI dashboards for ride volume and booking trends.
