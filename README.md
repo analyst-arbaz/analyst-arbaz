@@ -91,12 +91,12 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analyst-arbaz&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analyst-arbaz&theme=github-dark-blue" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=analyst-arbaz&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=analyst-arbaz&theme=github-dark-blue" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyst-arbaz&layout=compact&theme=github_dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyst-arbaz&layout=compact&theme=github_dark&cache_seconds=1800" alt="Top Languages">
 </p>
 
 ---
