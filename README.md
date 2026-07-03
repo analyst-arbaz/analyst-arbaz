@@ -49,6 +49,17 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 
 ---
 
+### 🤖 AI Projects
+
+Alongside data analysis, I also build AI-powered tools and agents.
+
+| Project | What It Does | Tools |
+|---|---|---|
+| 🧭 [DataPilot AI](https://github.com/analyst-arbaz/DataPilot-AI) | An AI-powered assistant built to help automate and speed up data analysis tasks | Python, AI |
+| 🔥 [RoastCV](https://github.com/analyst-arbaz/Resume-AI-Agent) | An AI agent that reviews resumes, roasts the weak points, and gives suggestions to make them stronger | Python, AI |
+
+---
+
 ### 💼 Featured Projects
 
 | Project | What It Does | Tools |
@@ -74,17 +85,6 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 | 🎬 [Netflix SQL Project](https://github.com/analyst-arbaz/netflix_sql_project) | Analyzed content distribution, ratings, and release trends using SQL | SQL, pgAdmin 4 |
 | ☕ [Coffee Shop Sales](https://github.com/analyst-arbaz/Coffee-Shop-Sales) | Sales trend and revenue analysis for a coffee shop chain | Python / Power BI |
 | 📈 [Sales Dashboard](https://github.com/analyst-arbaz/Sales-Dashboard) | General sales performance dashboard with key business KPIs | Power BI |
-
----
-
-### 🤖 AI Projects
-
-Alongside data analysis, I also build AI-powered tools and agents.
-
-| Project | What It Does | Tools |
-|---|---|---|
-| 🧭 [DataPilot AI](https://github.com/analyst-arbaz/DataPilot-AI) | An AI-powered assistant built to help automate and speed up data analysis tasks | Python, AI |
-| 🔥 [RoastCV](https://github.com/analyst-arbaz/Resume-AI-Agent) | An AI agent that reviews resumes, roasts the weak points, and gives suggestions to make them stronger | Python, AI |
 
 ---
 
