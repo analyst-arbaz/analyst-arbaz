@@ -24,7 +24,7 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 
 - 🔭 Currently building end-to-end analytics dashboards across industries — retail, healthcare, food delivery, hospitality, and finance
 - 🌱 Leveling up in Advanced Data Modeling and Machine Learning for analysts
-- 🤖 Also experimenting with AI agents (check out **DataPilot-AI** and **Resume-AI-Agent** below)
+- 🤖 Also building AI agents on the side — check out the **AI Projects** section below
 - 💬 Ask me about SQL query optimization, Power BI DAX, or Python data cleaning
 - 📫 Reach me at **arbazkhan21223@gmail.com**
 
@@ -65,7 +65,6 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 | 🏨 [Hotel Booking Data Analysis](https://github.com/analyst-arbaz/Data-Analysis-Hotel-Booking) | Analyzed hotel booking trends, cancellations, and revenue patterns | Python, SQL |
 | 📉 [Customer Churn Analysis](https://github.com/analyst-arbaz/Customers-Churn-Analysis) | Identified churn drivers and at-risk customer segments | Python, Pandas |
 | ▶️ [YouTube Earnings Dashboard](https://github.com/analyst-arbaz/Youtube_Earning_Dashboard) | Tracked channel earnings, views, and engagement metrics | Power BI |
-| 🤖 [DataPilot AI](https://github.com/analyst-arbaz/DataPilot-AI) | An AI-powered assistant built to help automate data analysis tasks | Python, AI |
 | 🍕 [Pizza Sales SQL Project](https://github.com/analyst-arbaz/Pizza_Sales_SQL_project) | SQL-driven analysis of pizza sales performance and order patterns | SQL |
 | 🚧 [Road Accident Dashboard](https://github.com/analyst-arbaz/ROAD-ACCIDENT-DASHBOARD) | Visualized accident trends, hotspots, and contributing factors | Power BI |
 | 📱 [Mobile Sales Dashboard](https://github.com/analyst-arbaz/Mobile_Sales_Dashboard) | End-to-end Power BI dashboard for mobile sales with custom DAX measures | Power BI, DAX |
@@ -75,7 +74,17 @@ I'm a **Data Analyst** who loves digging into messy datasets and pulling out the
 | 🎬 [Netflix SQL Project](https://github.com/analyst-arbaz/netflix_sql_project) | Analyzed content distribution, ratings, and release trends using SQL | SQL, pgAdmin 4 |
 | ☕ [Coffee Shop Sales](https://github.com/analyst-arbaz/Coffee-Shop-Sales) | Sales trend and revenue analysis for a coffee shop chain | Python / Power BI |
 | 📈 [Sales Dashboard](https://github.com/analyst-arbaz/Sales-Dashboard) | General sales performance dashboard with key business KPIs | Power BI |
-| 🧠 [Resume AI Agent](https://github.com/analyst-arbaz/Resume-AI-Agent) | An AI agent built to review and optimize resumes | Python, AI |
+
+---
+
+### 🤖 AI Projects
+
+Alongside data analysis, I also build AI-powered tools and agents.
+
+| Project | What It Does | Tools |
+|---|---|---|
+| 🧭 [DataPilot AI](https://github.com/analyst-arbaz/DataPilot-AI) | An AI-powered assistant built to help automate and speed up data analysis tasks | Python, AI |
+| 🔥 [RoastCV](https://github.com/analyst-arbaz/Resume-AI-Agent) | An AI agent that reviews resumes, roasts the weak points, and gives suggestions to make them stronger | Python, AI |
 
 ---
 
