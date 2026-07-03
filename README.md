@@ -54,8 +54,8 @@ Here are some of the projects that showcase my skills and expertise:
 ## 📫 How to Reach Me
 - **Email:** [arbazkhan21223@gmail.com](mailto:arbazkhan21223@gmail.com)
 - **LinkedIn:** [linkedin.com/in/arbaz-data-analyst](https://www.linkedin.com/in/arbaz-data-analyst/)
-- **GitHub:** [github.com/developer-arbaz](https://github.com/developer-arbaz)
-- **Portfolio:** [developer-arbaz.github.io](https://developer-arbaz.github.io/developerarbaz.github.io/)
+- **GitHub:** [github.com/developer-arbaz](https://github.com/analyst-arbaz)
+- **Portfolio:** [developer-arbaz.github.io](https://analyst-arbaz.github.io/)
 
 ## 🏆 Achievements
 - Completed Accenture North America's Data Analytics and Visualization on Forage.
