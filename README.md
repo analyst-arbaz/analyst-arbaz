@@ -66,7 +66,7 @@ Alongside data analysis, I also build AI-powered tools and agents.
 |---|---|---|
 | 📊 [Meta Ad Performance Analysis](https://github.com/analyst-arbaz/Meta-Ad-Performance-Analysis-Power-BI-Project) | Power BI dashboard breaking down Meta ad campaign performance, reach, and ROI | Power BI, DAX |
 | ☁️ [Crypto Data Pipeline (Airflow + GCP)](https://github.com/analyst-arbaz/Crypto-Data-Pipeline-with-Airflow-Google-Cloud) | Automated data pipeline streaming live crypto data using Airflow and Google Cloud | Python, Airflow, GCP |
-| 📦 [Samsung Supply Chain Logistics Dashboard](https://github.com/analyst-arbaz/Samsung-Supply-Chain-Logistics-Dashboard-Power-BI) | End-to-end supply chain and logistics performance dashboard | Power BI, DAX |
+| 📦 [Samsung Supply Chain Logistics Dashboard](https://github.com/analyst-arbaz/Samsung-Supply-Chain-Logistics-Dashboard-Power-BI-.git) | End-to-end supply chain and logistics performance dashboard | Power BI, DAX |
 | 🚕 [OLA Data Analysis](https://github.com/analyst-arbaz/OLA_Data_Analysis_Project) | SQL-based analysis of ride stats, cancellations, and customer behavior with Power BI dashboard | SQL, Power BI |
 | 🍔 [Swiggy Data Analysis](https://github.com/analyst-arbaz/Swiggy-Data-Analysis-Project) | Explored order trends, delivery performance, and customer patterns on Swiggy data | Python, SQL |
 | 👥 [Employee Attrition & Workforce Analytics](https://github.com/analyst-arbaz/Employee-Attrition-Workforce-Analytics-Dashboard) | Dashboard identifying attrition drivers and workforce trends | Power BI |
